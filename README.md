@@ -109,7 +109,7 @@ Esta documentação detalha o processo de configuração para o deploy de uma ap
 
 ### **6. Configuração do Load Balancer**
 
-#### **6.1. Classic Load Balancer (ELB)**
+#### **6.1. Classic Load Balancer**
 - **Tipo:** Classic Load Balancer
 - **Listeners:**
   - HTTP (`80`)
