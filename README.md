@@ -7,6 +7,7 @@ Esta documentação detalha o processo de configuração para o deploy de uma ap
 ---
 
 ### **2. Planejamento e Configuração da VPC**
+  <img src="vpc.png" alt="Mapa de recursos" width="800">
 
 #### **2.1. Criação da VPC**
 
@@ -42,6 +43,7 @@ Esta documentação detalha o processo de configuração para o deploy de uma ap
   - Todo o tráfego permitido.
 
 #### **3.2. EFS**
+  <img src="efs.png" alt="EFS" width="800">
 
 - **Inbound:**
   - Porta **2049 (NFS):** Permitir acesso apenas dos Security Groups das instâncias EC2 privadas.
