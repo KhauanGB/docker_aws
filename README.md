@@ -1,6 +1,6 @@
 ## Documentação da Atividade AWS - Docker 
 
-### ** Introdução**
+###  Introdução
 
 Esta documentação detalha o processo de configuração para o deploy de uma aplicação WordPress utilizando **Docker** em instância **EC2** na AWS. O objetivo é consolidar conhecimentos em **DevSecOps**, boas práticas de utilização de containers, e planejamento da infraestrutura.
 ---
